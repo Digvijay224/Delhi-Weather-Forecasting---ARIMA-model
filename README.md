@@ -1,1 +1,2 @@
 # Delhi-Weather-Forecasting---ARIMA-model
+This data was taken out from wunderground with the help of their easy to use api. It contains various features such as temperature, pressure, humidity, rain, precipitation,etc. The main target is to develop a prediction model accurate enough for predicting the weather. We can try something like predicting the weather in the next 24 hours like microsoft tried some time back.
